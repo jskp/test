@@ -9,5 +9,22 @@
 #import "MyPerson.h"
 
 @implementation MyPerson
-
+-(void)addMethon_01{
+    
+}
+-(void)addMethon_02{
+    
+}
+-(void)addMethon_03{
+    
+}
+-(void)addMethon_04{
+    
+}
+-(void)addMethon_05{
+    
+}
+-(void)addMethon_06{
+    
+}
 @end
