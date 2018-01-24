@@ -24,7 +24,5 @@
 -(void)addMethon_05{
     
 }
--(void)addMethon_06{
-    
-}
+
 @end
